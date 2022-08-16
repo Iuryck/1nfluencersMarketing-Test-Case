@@ -59,14 +59,14 @@ Data Engineers do the work of extracting, cleaning, transforming and loading the
 
 
 
-# Question 8
+# Question 9
 Imagine that you have been hired as a web scraper developer. On your first day
 of work you are asked to start a process to develop a data pipeline to create and
 update an influencers Database from Instagram. As a first step in this process,
 you are asked to create a simplified logic flowchart that shows the steps in the
 process of creating this pipeline.
 
-[Flow Chart](Flowcharts.png)
+![Flow Chart](Flowcharts.png)
 
 
 
