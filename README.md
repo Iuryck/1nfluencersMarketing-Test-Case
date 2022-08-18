@@ -1,6 +1,6 @@
 # Answers to Theoretcial Questions
 
-[Theoretical Questions](#theoritcal-answers)
+[Theoretical Questions](#theoretical-answers)
 
 # Get Started
 
